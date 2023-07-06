@@ -1,0 +1,5 @@
+101 -> pass : 101 ;-karyawan
+102 -> pass : 102 ;-perawat
+103 -> pass : 103 ;-karyawan
+104 -> pass : 104 ;-dokter
+105 -> pass : 105 ;-dokter
